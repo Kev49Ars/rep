@@ -1,7 +1,7 @@
 (function() {
     'use strict';
 
-    var API_BASE = 'https://api-widget-henna.vercel.app/dw.asm';
+    var API_BASE = 'https://api-widget-proxy-allcntr-srvvrc.dalam.world/dw.asm';
     var VERSION  = '1.1.0';
 
     // ══════════════════════════════════════
