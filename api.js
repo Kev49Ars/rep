@@ -861,7 +861,7 @@
     // RENDER HELPERS
     // ════════════════════════════════════
     function row(label, val) {
-        return '<div class="dw-row"><span class="dw-label">' + esc(label) + '</span><span class="dw-val">' + val + '</span></div>';
+        return '<div class="dw-row"><span class="dw-label">' + esc(label) + '</span><!-- span class="dw-val" -->' + val + '</span></div>';
     }
 
     function esc(s) {
