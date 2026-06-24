@@ -1,7 +1,7 @@
 (function() {
     'use strict';
 
-    var API_BASE = 'https://api.dalam.world/launcher/api.wdg.php';
+    var API_BASE = 'https://api-widget-henna.vercel.app/dw.asm';
     var VERSION  = '1.1.0';
 
     // ══════════════════════════════════════
