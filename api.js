@@ -270,7 +270,7 @@
     }
 
     function footer(lang) {
-        return '<div class="dw-footer"><a href="https://dalam.world" target="_blank" rel="noopener" style="color:inherit;text-decoration:none;">' + t(lang,'powered') + '</a></div>';
+        return '<div class="dw-footer"><!-- a href="https://dalam.world" target="_blank" rel="noopener" style="color:inherit;text-decoration:none;">' + t(lang,'powered') + '</a --></div>';
     }
 
     function playButton(lang, refCode) {
