@@ -462,7 +462,7 @@
     // ══════════════════════════════════════
     function bootstrap() {
         injectStyles();
-        var scripts = document.querySelectorAll('script[src*="widget.js"][data-type]');
+        var scripts = document.querySelectorAll('script[data-type]');
         for (var i = 0; i < scripts.length; i++) {
             initWidget(scripts[i]);
         }
